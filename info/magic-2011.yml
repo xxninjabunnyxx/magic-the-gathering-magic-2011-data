@@ -1,0 +1,21 @@
+---
+object: set
+id: 485d2468-18c8-42a4-9482-ca1c51e0470e
+code: m11
+mtgo_code: m11
+arena_code: m11
+tcgplayer_id: 69
+name: Magic 2011
+uri: https://api.scryfall.com/sets/485d2468-18c8-42a4-9482-ca1c51e0470e
+scryfall_uri: https://scryfall.com/sets/m11
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Am11&unique=prints
+released_at: '2010-07-16'
+set_type: core
+card_count: 249
+printed_size: 249
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/m11.svg?1694404800

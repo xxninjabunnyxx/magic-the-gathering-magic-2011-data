@@ -1,0 +1,116 @@
+---
+object: card
+id: 71f05793-9e6f-4815-9a13-f791cb4b6aa0
+oracle_id: 34dd789c-4d80-4ccc-a4f7-2e5388a9689d
+multiverse_ids:
+- 204975
+mtgo_id: 37314
+mtgo_foil_id: 37315
+tcgplayer_id: 35558
+cardmarket_id: 241953
+name: Angelic Arbiter
+lang: en
+released_at: '2010-07-16'
+uri: https://api.scryfall.com/cards/71f05793-9e6f-4815-9a13-f791cb4b6aa0
+scryfall_uri: https://scryfall.com/card/m11/4/angelic-arbiter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/1/71f05793-9e6f-4815-9a13-f791cb4b6aa0.jpg?1562464158
+  normal: https://cards.scryfall.io/normal/front/7/1/71f05793-9e6f-4815-9a13-f791cb4b6aa0.jpg?1562464158
+  large: https://cards.scryfall.io/large/front/7/1/71f05793-9e6f-4815-9a13-f791cb4b6aa0.jpg?1562464158
+  png: https://cards.scryfall.io/png/front/7/1/71f05793-9e6f-4815-9a13-f791cb4b6aa0.png?1562464158
+  art_crop: https://cards.scryfall.io/art_crop/front/7/1/71f05793-9e6f-4815-9a13-f791cb4b6aa0.jpg?1562464158
+  border_crop: https://cards.scryfall.io/border_crop/front/7/1/71f05793-9e6f-4815-9a13-f791cb4b6aa0.jpg?1562464158
+mana_cost: "{5}{W}{W}"
+cmc: 7.0
+type_line: Creature — Angel
+oracle_text: |-
+  Flying
+  Each opponent who cast a spell this turn can't attack with creatures.
+  Each opponent who attacked with a creature this turn can't cast spells.
+power: '5'
+toughness: '6'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 485d2468-18c8-42a4-9482-ca1c51e0470e
+set: m11
+set_name: Magic 2011
+set_type: core
+set_uri: https://api.scryfall.com/sets/485d2468-18c8-42a4-9482-ca1c51e0470e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/71f05793-9e6f-4815-9a13-f791cb4b6aa0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34dd789c-4d80-4ccc-a4f7-2e5388a9689d&unique=prints
+collector_number: '4'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Argyle
+artist_ids:
+- a44ddda4-5331-4f83-aac9-3e00ed36bd7b
+illustration_id: 2a2dd416-3433-4837-9335-16fdd649abe6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3370
+penny_rank: 10715
+prices:
+  usd: '1.36'
+  usd_foil: '3.99'
+  usd_etched: 
+  eur: '1.55'
+  eur_foil: '0.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204975
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Angelic+Arbiter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Angelic+Arbiter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Angelic+Arbiter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/35558?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Angelic+Arbiter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/37314?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
